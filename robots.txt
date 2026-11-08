@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://local-business-guides.github.io/joshua-and-sons-electricians-company-salt-lake-cit/sitemap.xml
